@@ -1,1 +1,42 @@
 
+# Proposal
+
+## What will (likely) be the title of your project?
+
+First Level of Megaman
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+A remix to a classic video game. It will be the first level of the game where you get to know how the game works and how
+the character moves.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+It will follow the same outline as the mario track, using the same ideas about movement and jumping and scrolling.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+I wont use another course's final project.
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+I'm doing this project on my own.
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+The load up screen and possibly have the character load up and move left and right.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+Will be able to have the character move for about a minute or so.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+Have the character be able to move and fight enemies.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+I will have to research how to implement characters coming in, them taking damage and the ability for the character to shoot back at them.
+
